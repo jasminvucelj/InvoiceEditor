@@ -1,0 +1,9 @@
+c:\users\jasmin\documents\visual studio 2013\Projects\InvoiceEditor\InvoiceEditor\bin\Debug\InvoiceEditor.exe.config
+c:\users\jasmin\documents\visual studio 2013\Projects\InvoiceEditor\InvoiceEditor\bin\Debug\InvoiceEditor.exe
+c:\users\jasmin\documents\visual studio 2013\Projects\InvoiceEditor\InvoiceEditor\bin\Debug\InvoiceEditor.pdb
+c:\users\jasmin\documents\visual studio 2013\Projects\InvoiceEditor\InvoiceEditor\obj\Debug\InvoiceEditor.csprojResolveAssemblyReference.cache
+c:\users\jasmin\documents\visual studio 2013\Projects\InvoiceEditor\InvoiceEditor\obj\Debug\InvoiceEditor.Properties.Resources.resources
+c:\users\jasmin\documents\visual studio 2013\Projects\InvoiceEditor\InvoiceEditor\obj\Debug\InvoiceEditor.csproj.GenerateResource.Cache
+c:\users\jasmin\documents\visual studio 2013\Projects\InvoiceEditor\InvoiceEditor\obj\Debug\InvoiceEditor.exe
+c:\users\jasmin\documents\visual studio 2013\Projects\InvoiceEditor\InvoiceEditor\obj\Debug\InvoiceEditor.pdb
+c:\users\jasmin\documents\visual studio 2013\Projects\InvoiceEditor\InvoiceEditor\obj\Debug\InvoiceEditor.NewInvoiceForm.resources
